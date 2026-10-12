@@ -1,0 +1,6 @@
+# Internal agent docs and tooling stay out of the published site
+AGENTS.md
+CLAUDE.md
+deploy.py
+README.md
+.git/
